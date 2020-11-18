@@ -26,4 +26,4 @@ This model aims to plot the probability of gerrymandering on a normal probabilit
 Using the Polsby Popper test, We calculate the compactness of the state. Then taking the product of compactness and administrative importance we calculate probability of gerrymandering. Compactness is inversely proportional to probability of gerrymandering. Administrative importance directly proportional to probability of gerrymandering. Hence we have the prediction model. Also, this is the most accurate prediction model as we a statistical estimate of the probability on a well-scaled and well-plotted curve.
 
 # Results:
-can be seen in the results section of this repository.
+can be seen for the state of Texas in the results section of this repository.
