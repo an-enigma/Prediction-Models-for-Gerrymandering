@@ -1,4 +1,4 @@
-# Prediction-Models-for-Gerrymandering
+# Prediction-Model-for-Gerrymandering
 Extraction of real time boundaries of a given district, estimation of compactness using Polsby-popper test and finally estimating the probability of gerrymandering in the district
 
 This project aims to estimate the probability of any civil bounded state or district to be gerrymandered. Using different prediction models and features we have carried out this analysis. The dataset was taken from various sources, like federal elections 2016, geojson data from open street maps (via an Application Programming Interface). The prediction models are based on features such as compactness, administrative importance, electoral and popular votes, voter count for a state. The project impeccably predicts the probability of gerrymandering which is presented using various visualisations such as distribution curves, pie charts and scatter plots.
