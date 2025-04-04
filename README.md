@@ -27,6 +27,3 @@ Using the Polsby Popper test, We calculate the compactness of the state. Then ta
 
 # Results:
 can be seen for the state of Texas in the results section of this repository.
-
-# Contributor
-[Arth Dubey](https://github.com/ArthDubey)
